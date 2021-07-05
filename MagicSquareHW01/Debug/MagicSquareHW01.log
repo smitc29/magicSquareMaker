@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\pdocuments\combcomputing\magicsquarehw02\magicsquarehw01\main.cpp(171): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\pdocuments\combcomputing\magicsquarehw02\magicsquarehw01\main.cpp(191): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\pdocuments\combcomputing\magicsquarehw02\magicsquarehw01\main.cpp(195): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\pdocuments\combcomputing\magicsquarehw02\magicsquarehw01\main.cpp(196): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\pdocuments\combcomputing\magicsquarehw02\magicsquarehw01\main.cpp(200): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\pdocuments\combcomputing\magicsquarehw02\magicsquarehw01\main.cpp(253): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MagicSquareHW01.vcxproj -> D:\Pdocuments\CombComputing\MagicSquareHW02\Debug\MagicSquareHW01.exe
