@@ -95,7 +95,13 @@ void main()
 
 	if (value <= 2)
 	{
-		cout << "\n I'm afraid this value is too little to be made into a magic square! ";
+		while (value <= 2)
+		{
+			cout << "\n I'm afraid this value is too little to be made into a magic square! ";
+			cout << "\n Please enter a number greater or equal to 3 for the length/width: ";
+			cin >> value;
+		}
+		
 	}
 	else
 	{
@@ -265,5 +271,7 @@ void main()
 		cout << "\n\n ";
 
 	} // End of valid 'value' else statement
+
+	cin >> value;
 
 } // end of Main()
